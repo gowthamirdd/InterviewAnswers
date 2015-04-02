@@ -1,4 +1,4 @@
-package com.comcast.interview.taxperson;
+package com.comcast.interview;
 
 /**
  * Created by Gowthami on 4/1/15.
