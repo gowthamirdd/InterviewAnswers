@@ -1,4 +1,4 @@
-package com.comcast.interview.taxperson;
+package com.comcast.interview;
 
 import org.junit.Before;
 import org.junit.Test;
